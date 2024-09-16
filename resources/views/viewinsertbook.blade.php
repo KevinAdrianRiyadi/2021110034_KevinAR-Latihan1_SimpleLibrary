@@ -47,7 +47,7 @@
 
                 <div class="col-4">
                     <label class="fore-label" for="message">Author Name</label>
-                    <input class="fore-control" name="author_name">
+                    <input class="fore-control" name="author_name" type="text">
                 </div>
 
                 <div class="col-4">
